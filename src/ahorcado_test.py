@@ -42,7 +42,7 @@ def test_ejecutar_turno(palabra_secreta, letras_probadas):
     print()
 
 if __name__ == "__main__":
-    #test_cargar_palabras("data/palabras_ahorcado.txt")
+    test_cargar_palabras("data/palabras_ahorcado.txt")
     #PALABRAS = cargar_palabras("data/palabras_ahorcado.txt")
     #test_elegir_palabra(PALABRAS)
     #test_enmascarar_palabra('python', {})
